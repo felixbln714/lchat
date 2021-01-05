@@ -1,2 +1,2 @@
 # lchat
-Lchat is a chat application that runs on GNU/Linux only and is a simple and useful alternative as an local chatroom
+Lchat is a prompt chat application that runs on GNU/Linux only and is supposed to be used as a local chatroom, it is simple with a user database which supports password hashing and salting.
